@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "lightImage": "/img/clients/brands/light/1.png",
+    "darkImage": "/img/clients/brands/dark/01.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 2,
+    "lightImage": "/img/clients/brands/light/2.png",
+    "darkImage": "/img/clients/brands/dark/02.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 3,
+    "lightImage": "/img/clients/brands/light/3.png",
+    "darkImage": "/img/clients/brands/dark/03.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 4,
+    "lightImage": "/img/clients/brands/light/4.png",
+    "darkImage": "/img/clients/brands/dark/04.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 5,
+    "lightImage": "/img/clients/brands/light/5.png",
+    "darkImage": "/img/clients/brands/dark/05.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 6,
+    "lightImage": "/img/clients/brands/light/6.png",
+    "darkImage": "/img/clients/brands/dark/06.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 7,
+    "lightImage": "/img/clients/brands/light/7.png",
+    "darkImage": "/img/clients/brands/dark/07.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 8,
+    "lightImage": "/img/clients/brands/light/8.png",
+    "darkImage": "/img/clients/brands/dark/08.png",
+    "url": "www.avo.com"
+  }
+]
