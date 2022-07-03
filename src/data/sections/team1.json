@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "/img/team/01.jpg",
+    "name": "Hasib sharif",
+    "title": "General Manager"
+  },
+  {
+    "id": 2,
+    "image": "/img/team/02.jpg",
+    "name": "Jonson Leo",
+    "title": "Founder"
+  },
+  {
+    "id": 3,
+    "image": "/img/team/03.jpg",
+    "name": "Leio Man",
+    "title": "Founder"
+  },
+  {
+    "id": 4,
+    "image": "/img/team/4.jpg",
+    "name": "Robert Front",
+    "title": "CEO Founder"
+  },
+  {
+    "id": 5,
+    "image": "/img/team/5.jpg",
+    "name": "Legender Mao",
+    "title": "3D Visualization"
+  },
+  {
+    "id": 6,
+    "image": "/img/team/6.jpg",
+    "name": "Matt Huk",
+    "title": "3D Visualization"
+  }
+]
