@@ -24,7 +24,7 @@ const TeamWithSkills = () => {
                 We help to create visual strategies.
               </h3>
               <p>
-                We are AVO. We create award-winning websites, remarkable brands
+                We are DigiBase. We create award-winning websites, remarkable brands
                 and cutting-edge apps.Nullam imperdie.
               </p>
               <div className="skills-box mt-40">

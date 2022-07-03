@@ -28,7 +28,7 @@ const Footer = () => {
               <div className="con-info custom-font">
                 <ul>
                   <li>
-                    <span>Email : </span> Avo_support@website.com
+                    <span>Email : </span> abc@xyz.com
                   </li>
                   <li>
                     <span>Address : </span> A32 , Ave 15th Street, Door 211, San
