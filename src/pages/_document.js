@@ -15,7 +15,7 @@ class MyDocument extends Document {
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta
             name="keywords"
-            content="digibase"
+            content="DigiBase - Digital Marketing Agency"
           />
           <meta
             name="description"
