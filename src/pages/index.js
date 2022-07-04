@@ -1,4 +1,4 @@
-import HomeDark from './home/home2-dark'
+import HomeDark from './home/home-dark'
 
 export default function Home() {
   return (
