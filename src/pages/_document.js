@@ -39,7 +39,7 @@ class MyDocument extends Document {
           <link rel="manifest" href="/img/favicon/manifest.json" />
           <meta name="msapplication-TileColor" content="#ffffff" />
           <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
-          <meta name="theme-color" content="#ffffff" />
+          {/* <meta name="theme-color" content="#ffffff" /> */}
           {/* Google Fonts */}
           <link
             href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
