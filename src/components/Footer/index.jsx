@@ -28,31 +28,31 @@ const Footer = () => {
               <div className="con-info custom-font">
                 <ul>
                   <li>
-                    <span>Email : </span> abc@xyz.com
+                    <span>Email : </span>  <a href="mailto:abc@xyz.com">abc@xyz.com</a>
                   </li>
                   <li>
                     <span>Address : </span> A32 , Ave 15th Street, Door 211, San
                     Franciso, USA 32490.
                   </li>
                   <li>
-                    <span>Phone : </span> (+1) 2345 678 44 88
+                    <span>Phone : </span> <a href="tel:+92 312 1209829">+92 312 1209829</a>
                   </li>
                 </ul>
               </div>
               <div className="social-icon">
                 <h6 className="custom-font stit simple-btn">Follow Us</h6>
                 <div className="social">
-                  <a href="#0" className="icon">
+                  <a href="https://www.facebook.com/thedigibase" className="icon">
                     <i className="fab fa-facebook-f"></i>
+                  </a>
+                  <a href="https://www.instagram.com/the.digibase" className="icon">
+                    <i className="fab fa-instagram"></i>
+                  </a>
+                  <a href="#0" className="icon">
+                    <i className="fab fa-whatsapp"></i>
                   </a>
                   <a href="#0" className="icon">
                     <i className="fab fa-twitter"></i>
-                  </a>
-                  <a href="#0" className="icon">
-                    <i className="fab fa-pinterest"></i>
-                  </a>
-                  <a href="#0" className="icon">
-                    <i className="fab fa-behance"></i>
                   </a>
                 </div>
               </div>

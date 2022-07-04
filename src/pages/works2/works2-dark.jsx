@@ -2,6 +2,7 @@ import React from "react";
 import DarkTheme from "../../layouts/Dark";
 import Navbar from "../../components/Navbar";
 import SmallFooter from "../../components/Small-footer";
+import Footer from "../../components/Footer";
 import WorksThreeColumnWithFilter from "../../components/Works-three-column-with-filter";
 import addParlx from "../../common/addParlx";
 
@@ -69,7 +70,8 @@ const Works2Dark = () => {
       </header>
       <div ref={MainContent} className="main-content">
         <WorksThreeColumnWithFilter filterPosition="right" />
-        <SmallFooter />
+        {/* <SmallFooter /> */}
+        <Footer />
       </div>
     </DarkTheme>
   );

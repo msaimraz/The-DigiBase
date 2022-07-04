@@ -134,17 +134,17 @@ const IntroWithSlider2 = () => {
         ></div>
 
         <div className="social-icon">
-          <a href="#0">
+          <a href="https://www.facebook.com/thedigibase">
             <i className="fab fa-facebook-f"></i>
+          </a>
+          <a href="https://www.instagram.com/the.digibase">
+            <i className="fab fa-instagram"></i>
+          </a>
+          <a href="#0">
+            <i className="fab fa-whatsapp"></i>
           </a>
           <a href="#0">
             <i className="fab fa-twitter"></i>
-          </a>
-          <a href="#0">
-            <i className="fab fa-behance"></i>
-          </a>
-          <a href="#0">
-            <i className="fab fa-pinterest-p"></i>
           </a>
         </div>
       </div>
