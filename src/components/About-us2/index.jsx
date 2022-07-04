@@ -8,7 +8,7 @@ import "react-circular-progressbar/dist/styles.css";
 const AboutUs2 = ({ skillsTheme }) => {
   const cpStyle = {
     path: {
-      stroke: "#75dab4",
+      stroke: " #e6243f",
     },
     trail: {
       stroke: skillsTheme
