@@ -42,6 +42,8 @@ const Homepage2 = () => {
       <PortfolioCustomColumn column={3} filterPosition="center" />
       <Clients1 theme="dark" subBG />
       <CallToAction />
+      <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+      <div class="elfsight-app-4d996eb6-704c-4cd6-8c4f-2ffd036adee6"></div>
       <Footer />
     </DarkTheme>
   );
