@@ -119,7 +119,7 @@ const ContactSection = () => {
           </div>
         </div>
       </section>
-      <footer className="footer-half sub-bg">
+      {/* <footer className="footer-half sub-bg">
         <div className="container">
           <div className="copyrights text-center mt-0">
             <p>
@@ -127,7 +127,7 @@ const ContactSection = () => {
             </p>
           </div>
         </div>
-      </footer>
+      </footer> */}
     </>
   );
 };
