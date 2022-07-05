@@ -28,9 +28,8 @@ const Works2Slider = ({ subBG }) => {
         <link rel="stylesheet" href="/css/ionicons.min.css" />
       </Head>
       <section
-        className={`work-carousel section-padding caroul ${
-          subBG ? "sub-bg" : ""
-        } position-re`}
+        className={`work-carousel section-padding caroul ${subBG ? "sub-bg" : ""
+          } position-re`}
       >
         <div className="container-fluid mt-100">
           <div className="sec-head custom-font text-center">
@@ -109,7 +108,7 @@ const Works2Slider = ({ subBG }) => {
                           ></div>
                           <div className="cont bgbox">
                             <h6>
-                              <Link href="/works2/works2-dark">
+                              <Link href="/work/work-dark">
                                 art &amp; illustration
                               </Link>
                             </h6>
@@ -141,7 +140,7 @@ const Works2Slider = ({ subBG }) => {
                           ></div>
                           <div className="cont bgbox">
                             <h6>
-                              <Link href="/works2/works2-dark">
+                              <Link href="/work/work-dark">
                                 art &amp; illustration
                               </Link>
                             </h6>
@@ -173,7 +172,7 @@ const Works2Slider = ({ subBG }) => {
                           ></div>
                           <div className="cont bgbox">
                             <h6>
-                              <Link href="/works2/works2-dark">
+                              <Link href="/work/work-dark">
                                 art &amp; illustration
                               </Link>
                             </h6>
@@ -205,7 +204,7 @@ const Works2Slider = ({ subBG }) => {
                           ></div>
                           <div className="cont bgbox">
                             <h6>
-                              <Link href="/works2/works2-dark">
+                              <Link href="/work/work-dark">
                                 art &amp; illustration
                               </Link>
                             </h6>
@@ -237,7 +236,7 @@ const Works2Slider = ({ subBG }) => {
                           ></div>
                           <div className="cont bgbox">
                             <h6>
-                              <Link href="/works2/works2-dark">
+                              <Link href="/work/work-dark">
                                 art &amp; illustration
                               </Link>
                             </h6>

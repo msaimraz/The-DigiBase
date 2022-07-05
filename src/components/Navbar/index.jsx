@@ -7,9 +7,8 @@ const Navbar = ({ lr, nr, theme }) => {
   return (
     <nav
       ref={nr}
-      className={`navbar navbar-expand-lg change ${
-        theme === "themeL" ? "light" : ""
-      }`}
+      className={`navbar navbar-expand-lg change ${theme === "themeL" ? "light" : ""
+        }`}
     >
       <div className="container">
         <Link href="/">
@@ -59,7 +58,7 @@ const Navbar = ({ lr, nr, theme }) => {
               </Link>
             </li>
             <li className="nav-item">
-              <Link href="/works2/works2-dark">
+              <Link href="/work/work-dark">
                 <a className="nav-link">portfolio</a>
               </Link>
             </li>

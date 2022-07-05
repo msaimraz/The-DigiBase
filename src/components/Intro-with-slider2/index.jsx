@@ -100,7 +100,7 @@ const IntroWithSlider2 = () => {
                               )}
                             </h1>
                           </Split>
-                          <Link href="/works2/works2-dark">
+                          <Link href="/work/work-dark">
                             <a className="simple-btn mt-50">
                               <span>Discover Works</span>
                             </a>
