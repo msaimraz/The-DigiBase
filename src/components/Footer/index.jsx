@@ -42,13 +42,13 @@ const Footer = () => {
               <div className="social-icon">
                 <h6 className="custom-font stit simple-btn">Follow Us</h6>
                 <div className="social">
-                  <a href="https://www.facebook.com/thedigibase" className="icon">
+                  <a href="https://www.facebook.com/thedigibase" target="_blank" className="icon">
                     <i className="fab fa-facebook-f"></i>
                   </a>
-                  <a href="https://www.instagram.com/the.digibase" className="icon">
+                  <a href="https://www.instagram.com/the.digibase" target="_blank" className="icon">
                     <i className="fab fa-instagram"></i>
                   </a>
-                  <a href="#0" className="icon">
+                  <a href="https://wa.me/message/ZKIWCEEQENI5L1" target="_blank" className="icon">
                     <i className="fab fa-whatsapp"></i>
                   </a>
                   <a href="#0" className="icon">
