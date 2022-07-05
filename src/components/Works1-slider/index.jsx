@@ -82,7 +82,7 @@ const Works1Slider = () => {
                           <Link href="/works/works-dark">{slide.title}</Link>
                         </h6>
                         <h4>
-                          <Link href="/project-details2/project-details2-dark">
+                          <Link href="/project-details/project-details-dark">
                             {slide.secTex}
                           </Link>
                         </h4>

@@ -42,8 +42,8 @@ const ShowcasesFullScreen = () => {
               nextEl: navigationNextRef.current,
             }}
             pagination={{
-                clickable: true,
-                type: "fraction",
+              clickable: true,
+              type: "fraction",
               el: paginationRef.current,
             }}
             onBeforeInit={(swiper) => {
@@ -89,7 +89,7 @@ const ShowcasesFullScreen = () => {
                       <div className="col-lg-10 offset-lg-1">
                         <div className="caption">
                           <h1>
-                            <Link href="/project-details2/project-details2-dark">
+                            <Link href="/project-details/project-details-dark">
                               <a>
                                 <div
                                   className="stroke"

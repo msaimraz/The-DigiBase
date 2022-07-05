@@ -84,7 +84,7 @@ const ShowcasesFullScreenCircleSlide = () => {
                     <div className="caption ontop valign">
                       <div className="o-hidden">
                         <h1 data-swiper-parallax="-2000">
-                          <Link href="/project-details2/project-details2-dark">
+                          <Link href="/project-details/project-details-dark">
                             <a>
                               <div className="stroke">{slide.title.first}</div>
                               <span>{slide.title.second}</span>
@@ -96,7 +96,7 @@ const ShowcasesFullScreenCircleSlide = () => {
                     <div className="copy-cap valign">
                       <div className="cap">
                         <h1 data-swiper-parallax="-2000">
-                          <Link href="/project-details2/project-details2-dark">
+                          <Link href="/project-details/project-details-dark">
                             <a>
                               <div className="stroke">{slide.title.first}</div>
                               <span>{slide.title.second}</span>

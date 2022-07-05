@@ -117,7 +117,7 @@ const Works2Slider = ({ subBG }) => {
                                 <a>Innovation and Crafts.</a>
                               </Link>
                             </h4>
-                            <Link href="/project-details2/project-details2-dark">
+                            <Link href="/project-details/project-details-dark">
                               <a>
                                 <span className="icon">
                                   <i className="fas fa-plus"></i>
@@ -149,7 +149,7 @@ const Works2Slider = ({ subBG }) => {
                                 <a>Inspiring new space.</a>
                               </Link>
                             </h4>
-                            <Link href="/project-details2/project-details2-dark">
+                            <Link href="/project-details/project-details-dark">
                               <a>
                                 <span className="icon">
                                   <i className="fas fa-plus"></i>
@@ -181,7 +181,7 @@ const Works2Slider = ({ subBG }) => {
                                 <a>Natural plus modern.</a>
                               </Link>
                             </h4>
-                            <Link href="/project-details2/project-details2-dark">
+                            <Link href="/project-details/project-details-dark">
                               <a>
                                 <span className="icon">
                                   <i className="fas fa-plus"></i>
@@ -213,7 +213,7 @@ const Works2Slider = ({ subBG }) => {
                                 <a>Innovation and Crafts.</a>
                               </Link>
                             </h4>
-                            <Link href="/project-details2/project-details2-dark">
+                            <Link href="/project-details/project-details-dark">
                               <a>
                                 <span className="icon">
                                   <i className="fas fa-plus"></i>
@@ -245,7 +245,7 @@ const Works2Slider = ({ subBG }) => {
                                 <a>Inspiring new space.</a>
                               </Link>
                             </h4>
-                            <Link href="/project-details2/project-details2-dark">
+                            <Link href="/project-details/project-details-dark">
                               <a>
                                 <span className="icon">
                                   <i className="fas fa-plus"></i>

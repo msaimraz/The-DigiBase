@@ -91,7 +91,7 @@ const ShowcasesOneCenter = () => {
                   <div className="caption ontop">
                     <div className="o-hidden">
                       <h1>
-                        <Link href="/project-details2/project-details2-dark">
+                        <Link href="/project-details/project-details-dark">
                           <a>
                             <div className="stroke">{slide.title.first}</div>
                             <span>{slide.title.second}</span>
@@ -103,7 +103,7 @@ const ShowcasesOneCenter = () => {
                   <div className="copy-cap valign">
                     <div className="cap">
                       <h1>
-                        <Link href="/project-details2/project-details2-dark">
+                        <Link href="/project-details/project-details-dark">
                           <a>
                             <div className="stroke">{slide.title.first}</div>
                             <span>{slide.title.second}</span>

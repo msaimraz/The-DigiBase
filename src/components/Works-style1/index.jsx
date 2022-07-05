@@ -9,12 +9,12 @@ const WorksStyle1 = () => {
   }, []);
   return (
     <section className="works section-padding pb-70">
-      <h2 style={{display: 'none'}}> &nbsp; </h2>
+      <h2 style={{ display: 'none' }}> &nbsp; </h2>
       <div className="container">
         <div className="row lg-space">
           <div className="col-lg-4 col-md-6">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="/project-details/project-details-dark">
                 <a>
                   <div
                     className="img"
@@ -29,7 +29,7 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6 valign">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="/project-details/project-details-dark">
                 <a>
                   <div
                     className="img"
@@ -44,7 +44,7 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="/project-details/project-details-dark">
                 <a>
                   <div
                     className="img"
@@ -59,7 +59,7 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6 valign">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="/project-details/project-details-dark">
                 <a>
                   <div
                     className="img"
@@ -74,7 +74,7 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="/project-details/project-details-dark">
                 <a>
                   <div
                     className="img"
@@ -89,7 +89,7 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6 valign">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="/project-details/project-details-dark">
                 <a>
                   <div
                     className="img"
@@ -104,7 +104,7 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="/project-details/project-details-dark">
                 <a>
                   <div
                     className="img"
@@ -119,7 +119,7 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6 valign">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="/project-details/project-details-dark">
                 <a>
                   <div
                     className="img"
@@ -134,7 +134,7 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="/project-details/project-details-dark">
                 <a>
                   <div
                     className="img"

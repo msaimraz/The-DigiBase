@@ -18,7 +18,7 @@ const NextProject = ({ projectImage, projectTitle }) => {
                 <div className="caption ontop valign">
                   <div className="o-hidden full-width">
                     <h1>
-                      <Link href="/project-details2/project-details2-dark">
+                      <Link href="/project-details/project-details-dark">
                         <span className="stroke">{projectTitle}</span>
                       </Link>
                     </h1>
@@ -27,7 +27,7 @@ const NextProject = ({ projectImage, projectTitle }) => {
                 <div className="copy-cap valign">
                   <div className="cap full-width">
                     <h1>
-                      <Link href="/project-details2/project-details2-dark">
+                      <Link href="/project-details/project-details-dark">
                         <a>
                           <span>{projectTitle}</span>
                         </a>

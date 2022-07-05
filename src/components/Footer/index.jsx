@@ -68,7 +68,7 @@ const Footer = () => {
                 }}
                 onSubmit={async (values) => {
                   await sendEmail(500);
-                  alert(JSON.stringify(values, null, 2));
+                  // alert(JSON.stringify(values, null, 2));
                   // Reset the values
                   values.subscribe = "";
                 }}
