@@ -1,4 +1,6 @@
-<h1>The DigiBase</h1>
+## The DigiBase
+
+[www.thedigibase.com](https://www.thedigibase.com)
 
 ## Getting Started
 
