@@ -28,11 +28,10 @@ const Footer = () => {
               <div className="con-info custom-font">
                 <ul>
                   <li>
-                    <span>Email : </span>  <a href="mailto:abc@xyz.com">tdigibase@gmail.com</a>
+                    <span>Email : </span>  <a href="mailto:tdigibase@gmail.com">contact@thedigibase.com</a>
                   </li>
                   <li>
-                    <span>Address : </span> A32 , Ave 15th Street, Door 211, San
-                    Franciso, USA 32490.
+                    <span>Address : </span> Karachi, Pakistan
                   </li>
                   <li>
                     <span>Phone : </span> <a href="tel:+92 312 1209829">+92 312 1209829</a>
