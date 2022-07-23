@@ -1,5 +1,7 @@
 import React from "react";
 import Split from "../Split";
+import { useForm } from '@formspree/react';
+
 import { Formik, Form, Field } from "formik";
 
 const ContactSection = () => {
@@ -14,6 +16,10 @@ const ContactSection = () => {
     return error;
   }
   const sendMessage = (ms) => new Promise((r) => setTimeout(r, ms));
+  const [state, handleSubmit] = useForm('');
+  if (state.succeeded) {
+    return <h5 className="custom-font text-center">"Your Message has been successfully sent. We will contact you soon."</h5>;
+  }
   return (
     <>
       <section className="contact-sec section-padding">
@@ -38,25 +44,25 @@ const ContactSection = () => {
                     email: "",
                     message: "",
                   }}
-                  onSubmit={async (values) => {
-                    await sendMessage(500);
-                    // alert(JSON.stringify(values, null, 2));
-                    // show message
-
-                    messageRef.current.innerText =
-                      "Your Message has been successfully sent. We will contact you soon.";
-                    // Reset the values
-                    values.name = "";
-                    values.email = "";
-                    values.message = "";
-                    // clear message
-                    setTimeout(() => {
-                      messageRef.current.innerText = "";
-                    }, 2000);
-                  }}
+                  // onSubmit={async (values) => {
+                  //   await sendMessage(500);
+                  //   // alert(JSON.stringify(values, null, 2));
+                  //   // show message
+                  //   messageRef.current.innerText =
+                  //     "Your Message has been successfully sent. We will contact you soon.";
+                  //   // Reset the values
+                  //   values.name = "";
+                  //   values.email = "";
+                  //   values.message = "";
+                  //   // clear message
+                  //   setTimeout(() => {
+                  //     messageRef.current.innerText = "";
+                  //   }, 2000);
+                  // }
+                  // }
                 >
                   {({ errors, touched }) => (
-                    <Form id="contact-form" action="mail.php" method="post">
+                    <Form id="contact-form" onSubmit={handleSubmit} >
                       <div className="messages" ref={messageRef}></div>
 
                       <div className="controls">
@@ -104,6 +110,7 @@ const ContactSection = () => {
                               <button
                                 type="submit"
                                 className="simple-btn custom-font cursor-pointer"
+                                disabled={state.submitting}
                               >
                                 <span>Send Message</span>
                               </button>
