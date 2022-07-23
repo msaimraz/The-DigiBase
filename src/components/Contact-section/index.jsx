@@ -18,7 +18,7 @@ const ContactSection = () => {
     <>
       <section className="contact-sec section-padding">
         <div className="container">
-          <div className="sec-head custom-font text-center">
+          {/* <div className="sec-head custom-font text-center">
             <h6 className="wow fadeIn" data-wow-delay=".5s">
               Get In Touch
             </h6>
@@ -28,7 +28,7 @@ const ContactSection = () => {
               </h3>
             </Split>
             <span className="tbg">Contact</span>
-          </div>
+          </div> */}
           <div className="row justify-content-center">
             <div className="col-lg-10">
               <div className="form wow fadeInUp" data-wow-delay=".5s">
@@ -44,7 +44,7 @@ const ContactSection = () => {
                     // show message
 
                     messageRef.current.innerText =
-                      "Your Message has been successfully sent. I will contact you soon.";
+                      "Your Message has been successfully sent. We will contact you soon.";
                     // Reset the values
                     values.name = "";
                     values.email = "";
