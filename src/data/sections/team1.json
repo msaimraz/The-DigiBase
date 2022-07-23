@@ -14,25 +14,19 @@
   {
     "id": 3,
     "image": "/img/team/03.jpg",
-    "name": "Leio Man",
-    "title": "Founder"
-  },
-  {
-    "id": 4,
-    "image": "/img/team/4.jpg",
     "name": "Robert Front",
     "title": "CEO Founder"
   },
   {
-    "id": 5,
-    "image": "/img/team/5.jpg",
+    "id": 4,
+    "image": "/img/team/04.jpg",
     "name": "Legender Mao",
-    "title": "3D Visualization"
+    "title": "Developer"
   },
   {
-    "id": 6,
-    "image": "/img/team/6.jpg",
+    "id": 5,
+    "image": "/img/team/05.jpg",
     "name": "Matt Huk",
-    "title": "3D Visualization"
+    "title": "Designer"
   }
 ]

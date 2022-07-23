@@ -37,7 +37,7 @@ const MinimalArea = () => {
 
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
-                  Our creative Ad agency is ranked among the finest in the US.
+                  Our creative Marketing agency is ranked among the finest in the Pk.
                   We cultivate smart ideas for start-ups and seasoned players.
                 </p>
               </Split>
