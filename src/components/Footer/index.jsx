@@ -108,7 +108,7 @@ const Footer = () => {
         </div>
         <div className="copyrights text-center">
           <p>
-            &copy; 2022 <a href="/"> The DigiBase</a> All Rights Reserved.
+            &copy; 2023 <a href="/"> The DigiBase</a> All Rights Reserved.
           </p>
         </div>
       </div>
