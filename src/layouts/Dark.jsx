@@ -10,7 +10,6 @@ const DarkTheme = ({ children }) => {
         <link rel="stylesheet" href="/css/dark.css" />
       </Head>
       {children}
-
     </>
   );
 };
