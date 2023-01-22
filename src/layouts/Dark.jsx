@@ -1,7 +1,6 @@
 /* eslint-disable @next/next/no-css-tags */
 import React from 'react'
 import Head from 'next/head'
-// 
 
 const DarkTheme = ({ children }) => {
   return (
@@ -9,7 +8,9 @@ const DarkTheme = ({ children }) => {
       <Head>
         <link rel="stylesheet" href="/css/dark.css" />
       </Head>
+
       {children}
+
     </>
   );
 };
