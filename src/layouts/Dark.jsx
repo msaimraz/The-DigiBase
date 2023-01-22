@@ -7,10 +7,9 @@ const DarkTheme = ({ children }) => {
   return (
     <>
       <Head>
-             <link rel="stylesheet" href="/css/dark.css" />
+        <link rel="stylesheet" href="/css/dark.css" />
       </Head>
       {children}
-      
     </>
   );
 };
