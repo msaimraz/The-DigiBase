@@ -35,14 +35,6 @@ class MyDocument extends Document {
           <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,700,800,900&display=swap" rel="stylesheet" />
           <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
           <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@200;300;400;500;600;700&display=swap" rel="stylesheet" />
-
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-EK5TN8H9G2"></script>
-          <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments)}
-            gtag('js', new Date());
-            gtag('config', 'G-EK5TN8H9G2');
-          </script>
         </Head>
 
         <body>
